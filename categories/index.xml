@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on 治療師惠珊</title>
-		<link>https://huishanOT.github.io/categories/</link>
+		<link>http://localhost:64597/categories/</link>
 		<description>Recent content in Categories on 治療師惠珊</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
@@ -12,54 +12,54 @@
 		
 			<lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
 		
-			<atom:link href="https://huishanOT.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:64597/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Android and Gaming</title>
-				<link>https://huishanOT.github.io/categories/android-and-gaming/</link>
+				<link>http://localhost:64597/categories/android-and-gaming/</link>
 				<pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-				<guid>https://huishanOT.github.io/categories/android-and-gaming/</guid>
+				<guid>http://localhost:64597/categories/android-and-gaming/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Go Language</title>
-				<link>https://huishanOT.github.io/categories/go-language/</link>
+				<link>http://localhost:64597/categories/go-language/</link>
 				<pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-				<guid>https://huishanOT.github.io/categories/go-language/</guid>
+				<guid>http://localhost:64597/categories/go-language/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>HTML</title>
-				<link>https://huishanOT.github.io/categories/html/</link>
+				<link>http://localhost:64597/categories/html/</link>
 				<pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-				<guid>https://huishanOT.github.io/categories/html/</guid>
+				<guid>http://localhost:64597/categories/html/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>HTML &amp; CSS</title>
-				<link>https://huishanOT.github.io/categories/html--css/</link>
+				<link>http://localhost:64597/categories/html--css/</link>
 				<pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-				<guid>https://huishanOT.github.io/categories/html--css/</guid>
+				<guid>http://localhost:64597/categories/html--css/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Programming Language</title>
-				<link>https://huishanOT.github.io/categories/programming-language/</link>
+				<link>http://localhost:64597/categories/programming-language/</link>
 				<pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-				<guid>https://huishanOT.github.io/categories/programming-language/</guid>
+				<guid>http://localhost:64597/categories/programming-language/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Python</title>
-				<link>https://huishanOT.github.io/categories/python/</link>
+				<link>http://localhost:64597/categories/python/</link>
 				<pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-				<guid>https://huishanOT.github.io/categories/python/</guid>
+				<guid>http://localhost:64597/categories/python/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Web Design</title>
-				<link>https://huishanOT.github.io/categories/web-design/</link>
+				<link>http://localhost:64597/categories/web-design/</link>
 				<pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-				<guid>https://huishanOT.github.io/categories/web-design/</guid>
+				<guid>http://localhost:64597/categories/web-design/</guid>
 				<description></description>
 			</item>
 	</channel>
