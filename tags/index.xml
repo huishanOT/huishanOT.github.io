@@ -1,58 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Tags on 治療師惠珊</title>
-		<link>http://localhost:64597/tags/</link>
-		<description>Recent content in Tags on 治療師惠珊</description>
+		<title>Tags on 惠珊 職能治療師</title>
+		<link>https://huishanot.github.io/tags/</link>
+		<description>Recent content in Tags on 惠珊 職能治療師</description>
 		<generator>Hugo</generator>
-		<language>zh-tw</language>
+		<language>zh-TW</language>
 		
 		
 		
 		
-			<lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+			<lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:64597/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://huishanot.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Game</title>
-				<link>http://localhost:64597/tags/game/</link>
-				<pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-				<guid>http://localhost:64597/tags/game/</guid>
+				<title>Tag1</title>
+				<link>https://huishanot.github.io/tags/tag1/</link>
+				<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://huishanot.github.io/tags/tag1/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>HTML</title>
-				<link>http://localhost:64597/tags/html/</link>
-				<pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-				<guid>http://localhost:64597/tags/html/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>New</title>
-				<link>http://localhost:64597/tags/new/</link>
-				<pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-				<guid>http://localhost:64597/tags/new/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Photos</title>
-				<link>http://localhost:64597/tags/photos/</link>
-				<pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-				<guid>http://localhost:64597/tags/photos/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Python</title>
-				<link>http://localhost:64597/tags/python/</link>
-				<pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-				<guid>http://localhost:64597/tags/python/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>React</title>
-				<link>http://localhost:64597/tags/react/</link>
-				<pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-				<guid>http://localhost:64597/tags/react/</guid>
+				<title>Tag2</title>
+				<link>https://huishanot.github.io/tags/tag2/</link>
+				<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://huishanot.github.io/tags/tag2/</guid>
 				<description></description>
 			</item>
 	</channel>
