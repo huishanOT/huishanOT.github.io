@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on 惠珊 職能治療師</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on 惠珊 職能治療師</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>hsccheng33@gmail.com (惠珊)</managingEditor>
+    <webMaster>hsccheng33@gmail.com (惠珊)</webMaster>
+    <copyright>Copyright © 2023 惠珊 職能治療師. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>我的第二篇博客文章</title>
+      <link>http://localhost:1313/blog/blog/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <author>hsccheng33@gmail.com (惠珊)</author>
+      <guid>http://localhost:1313/blog/blog/</guid>
+      <description>了解更多关于我和我创建博客的初衷。</description>
+      
+    </item>
+    
+    <item>
+      <title>我的第三篇博客文章</title>
+      <link>http://localhost:1313/blog/about/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <author>hsccheng33@gmail.com (惠珊)</author>
+      <guid>http://localhost:1313/blog/about/</guid>
+      <description>了解更多关于我和我创建博客的初衷。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

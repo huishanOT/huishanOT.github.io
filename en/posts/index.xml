@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Posts on Sabrina Cheng</title>
-		<link>https://huishanot.github.io/en/posts/</link>
-		<description>Recent content in Posts on Sabrina Cheng</description>
-		<generator>Hugo</generator>
-		<language>en-US</language>
-		
-		
-		
-		
-			<lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="https://huishanot.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Your Post Title</title>
-				<link>https://huishanot.github.io/en/posts/my-first-post/</link>
-				<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-				<guid>https://huishanot.github.io/en/posts/my-first-post/</guid>
-				<description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;hr&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Strikethrough uses two tildes. &lt;del&gt;Scratch this.&lt;/del&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h5 id=&#34;link&#34;&gt;Link&lt;/h5&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34;&gt;I&amp;rsquo;m an inline-style link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34; title=&#34;Google&amp;#39;s Homepage&#34;&gt;I&amp;rsquo;m an inline-style link with title&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.mozilla.org&#34;&gt;I&amp;rsquo;m a reference-style link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../blob/master/LICENSE&#34;&gt;I&amp;rsquo;m a relative reference to a repository file&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://slashdot.org&#34;&gt;You can use numbers for reference-style link definitions&lt;/a&gt;&lt;/p&gt;</description>
-			</item>
-	</channel>
+  <channel>
+    <title>Posts on Sabrina Cheng</title>
+    <link>https://huishanot.github.io/en/posts/</link>
+    <description>Recent content in Posts on Sabrina Cheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hsccheng33@gmail.com (Sabrina)</managingEditor>
+    <webMaster>hsccheng33@gmail.com (Sabrina)</webMaster>
+    <copyright>Copyright © 2023 Sabrina Cheng. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://huishanot.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>my first posts</title>
+      <link>https://huishanot.github.io/en/posts/en-post1/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <author>hsccheng33@gmail.com (Sabrina)</author>
+      <guid>https://huishanot.github.io/en/posts/en-post1/</guid>
+      <description>了解更多关于我和我创建博客的初衷。</description>
+      
+    </item>
+    
+  </channel>
 </rss>
