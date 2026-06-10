@@ -287,6 +287,17 @@
 
   
   
+
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BWJX0PSLH8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BWJX0PSLH8');
+</script>
+
 </head>
 
 
@@ -1035,6 +1046,27 @@
     </script>
   
   
+  
+    <div class="reading-progress-bar"></div>
+<script>
+  (function () {
+    var article = document.querySelector('article');
+    var bar = document.querySelector('.reading-progress-bar');
+    if (!article || !bar) return;
+
+    function update() {
+      var scrollTop = window.scrollY || document.documentElement.scrollTop;
+      var height = document.documentElement.scrollHeight - window.innerHeight;
+      var progress = height > 0 ? (scrollTop / height) * 100 : 0;
+      bar.style.width = progress + '%';
+      bar.classList.toggle('reading-progress-active', scrollTop > 0);
+    }
+
+    window.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update, { passive: true });
+    update();
+  })();
+</script>
   
 </footer>
 <div
