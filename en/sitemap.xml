@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://huishanot.github.io/en/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,22 @@
       rel="alternate"
       hreflang="en"
       href="https://huishanot.github.io/en/"
+    />
+  </url>
+  <url>
+    <loc>https://huishanot.github.io/en/about/</loc>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://huishanot.github.io/about/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://huishanot.github.io/en/about/"
     />
   </url>
   <url>
@@ -41,18 +57,18 @@
     />
   </url>
   <url>
-    <loc>https://huishanot.github.io/en/about/</loc>
+    <loc>https://huishanot.github.io/en/policy/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://huishanot.github.io/about/"
+      href="https://huishanot.github.io/policy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://huishanot.github.io/en/about/"
+      href="https://huishanot.github.io/en/policy/"
     />
   </url>
 </urlset>

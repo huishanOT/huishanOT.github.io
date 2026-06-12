@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policies on 惠珊 職能治療師</title>
+    <link>https://huishanot.github.io/policy/</link>
+    <description>Recent content in Policies on 惠珊 職能治療師</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>hsccheng33@gmail.com (惠珊)</managingEditor>
+    <webMaster>hsccheng33@gmail.com (惠珊)</webMaster>
+    <copyright>Copyright © 2026 惠珊 職能治療師. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://huishanot.github.io/policy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>免責聲明</title>
+      <link>https://huishanot.github.io/policy/disclosure/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <author>hsccheng33@gmail.com (惠珊)</author>
+      <guid>https://huishanot.github.io/policy/disclosure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>隱私權政策</title>
+      <link>https://huishanot.github.io/policy/policy/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <author>hsccheng33@gmail.com (惠珊)</author>
+      <guid>https://huishanot.github.io/policy/policy/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
