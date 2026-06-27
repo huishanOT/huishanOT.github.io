@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 惠珊 職能治療師</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://huishanot.github.io/categories/</link>
     <description>Recent content in Categories on 惠珊 職能治療師</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>hsccheng33@gmail.com (惠珊)</managingEditor>
     <webMaster>hsccheng33@gmail.com (惠珊)</webMaster>
     <copyright>Copyright © 2026 惠珊 職能治療師. All rights reserved.</copyright>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://huishanot.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

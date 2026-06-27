@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Sabrina Cheng</title>
-    <link>http://localhost:1313/en/series/</link>
+    <link>https://huishanot.github.io/en/series/</link>
     <description>Recent content in Series on Sabrina Cheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hsccheng33@gmail.com (Sabrina Cheng)</managingEditor>
     <webMaster>hsccheng33@gmail.com (Sabrina Cheng)</webMaster>
     <copyright>Copyright © 2026 Sabrina Cheng. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://huishanot.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Documentation</title>
-      <link>http://localhost:1313/en/series/documentation/</link>
+      <link>https://huishanot.github.io/en/series/documentation/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       <author>hsccheng33@gmail.com (Sabrina Cheng)</author>
-      <guid>http://localhost:1313/en/series/documentation/</guid>
+      <guid>https://huishanot.github.io/en/series/documentation/</guid>
       <description></description>
       
     </item>

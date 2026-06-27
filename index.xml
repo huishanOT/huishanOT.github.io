@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>惠珊 職能治療師</title>
-    <link>http://localhost:1313/</link>
+    <link>https://huishanot.github.io/</link>
     <description>Recent content on 惠珊 職能治療師</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>hsccheng33@gmail.com (惠珊)</managingEditor>
     <webMaster>hsccheng33@gmail.com (惠珊)</webMaster>
     <copyright>Copyright © 2026 惠珊 職能治療師. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://huishanot.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>留學準備：Student Worker 申請與面試經驗</title>
-      <link>http://localhost:1313/posts/uscot-studentworker/</link>
+      <link>https://huishanot.github.io/posts/uscot-studentworker/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <author>hsccheng33@gmail.com (惠珊)</author>
-      <guid>http://localhost:1313/posts/uscot-studentworker/</guid>
+      <guid>https://huishanot.github.io/posts/uscot-studentworker/</guid>
       <description>剛錄取 USC OT PP-MA，出發美國前面試 student worker 職位！這篇將完整記錄從 CV 修改、報名表單填寫到面試當天被問到的 10+ 個核心問題，希望能幫助未來想申請的學弟妹們。</description>
       
     </item>
     
     <item>
       <title>免責聲明</title>
-      <link>http://localhost:1313/policy/disclosure/</link>
+      <link>https://huishanot.github.io/policy/disclosure/</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <author>hsccheng33@gmail.com (惠珊)</author>
-      <guid>http://localhost:1313/policy/disclosure/</guid>
+      <guid>https://huishanot.github.io/policy/disclosure/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>隱私權政策</title>
-      <link>http://localhost:1313/policy/policy/</link>
+      <link>https://huishanot.github.io/policy/policy/</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <author>hsccheng33@gmail.com (惠珊)</author>
-      <guid>http://localhost:1313/policy/policy/</guid>
+      <guid>https://huishanot.github.io/policy/policy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>關於我：惠珊 Sabrina</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://huishanot.github.io/about/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <author>hsccheng33@gmail.com (惠珊)</author>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://huishanot.github.io/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>我的第2篇posts</title>
-      <link>http://localhost:1313/posts/first-post-copy-4/</link>
+      <link>https://huishanot.github.io/posts/first-post-copy-4/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       <author>hsccheng33@gmail.com (惠珊)</author>
-      <guid>http://localhost:1313/posts/first-post-copy-4/</guid>
+      <guid>https://huishanot.github.io/posts/first-post-copy-4/</guid>
       <description>了解更多关于我和我创建博客的初衷。</description>
       
     </item>
     
     <item>
       <title>我的第3篇posts</title>
-      <link>http://localhost:1313/posts/first-post-copy-5/</link>
+      <link>https://huishanot.github.io/posts/first-post-copy-5/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       <author>hsccheng33@gmail.com (惠珊)</author>
-      <guid>http://localhost:1313/posts/first-post-copy-5/</guid>
+      <guid>https://huishanot.github.io/posts/first-post-copy-5/</guid>
       <description>了解更多关于我和我创建博客的初衷。</description>
       
     </item>
