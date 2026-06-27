@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://huishanot.github.io/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2026-06-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://huishanot.github.io/"
+      href="http://localhost:1313/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://huishanot.github.io/en/"
+      href="http://localhost:1313/en/"
     />
   </url>
   <url>
-    <loc>https://huishanot.github.io/en/about/</loc>
+    <loc>http://localhost:1313/en/about/</loc>
     <lastmod>2026-06-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://huishanot.github.io/about/"
+      href="http://localhost:1313/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://huishanot.github.io/en/about/"
+      href="http://localhost:1313/en/about/"
     />
   </url>
   <url>
-    <loc>https://huishanot.github.io/en/posts/en-post1/</loc>
+    <loc>http://localhost:1313/en/posts/en-post1/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://huishanot.github.io/en/posts/</loc>
+    <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://huishanot.github.io/posts/"
+      href="http://localhost:1313/posts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://huishanot.github.io/en/posts/"
+      href="http://localhost:1313/en/posts/"
     />
   </url>
   <url>
-    <loc>https://huishanot.github.io/en/policy/</loc>
+    <loc>http://localhost:1313/en/policy/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://huishanot.github.io/policy/"
+      href="http://localhost:1313/policy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://huishanot.github.io/en/policy/"
+      href="http://localhost:1313/en/policy/"
     />
   </url>
 </urlset>

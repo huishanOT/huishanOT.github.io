@@ -3,95 +3,95 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://huishanot.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/posts/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/uscot-studentworker/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/policy/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://huishanot.github.io/en/"
+      href="http://localhost:1313/en/policy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://huishanot.github.io/"
+      href="http://localhost:1313/policy/"
     />
   </url>
   <url>
-    <loc>https://huishanot.github.io/policy/</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://huishanot.github.io/en/policy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://huishanot.github.io/policy/"
-    />
-  </url>
-  <url>
-    <loc>https://huishanot.github.io/policy/disclosure/</loc>
+    <loc>http://localhost:1313/policy/disclosure/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://huishanot.github.io/policy/policy/</loc>
+    <loc>http://localhost:1313/policy/policy/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://huishanot.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-06-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://huishanot.github.io/en/about/"
+      href="http://localhost:1313/en/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="https://huishanot.github.io/about/"
+      href="http://localhost:1313/about/"
     />
   </url>
   <url>
-    <loc>https://huishanot.github.io/posts/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://huishanot.github.io/en/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="https://huishanot.github.io/posts/"
-    />
-  </url>
-  <url>
-    <loc>https://huishanot.github.io/posts/first-post-copy-4/</loc>
+    <loc>http://localhost:1313/posts/first-post-copy-4/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://huishanot.github.io/posts/first-post-copy-5/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://huishanot.github.io/posts/first-post-copy-2/</loc>
+    <loc>http://localhost:1313/posts/first-post-copy-5/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
