@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://huishanot.github.io/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://huishanot.github.io/posts/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -35,7 +35,13 @@
     />
   </url>
   <url>
-    <loc>https://huishanot.github.io/posts/uscot-studentworker/</loc>
+    <loc>https://huishanot.github.io/posts/uscot-graduate-requirement/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://huishanot.github.io/posts/uscot-student-worker/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
